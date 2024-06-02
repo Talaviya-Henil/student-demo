@@ -4,3 +4,5 @@ This is our first projrct
 author : henil talaviya
 <br>
 eduaction : bachelor of engineering
+<br>
+salary : 50000 
